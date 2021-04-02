@@ -73,6 +73,8 @@ public class LoginActivity extends AppCompatActivity  {
 
             String username = userName.getText().toString().trim();
             String userPassword = password.getText().toString().trim();
+
+
             if (username.equals("Admin@todo.com") && userPassword.equals("admin12345")||(username.equals("lok@todo.com")&&userPassword.equals("lok123456"))) {
 
                 Intent intent = new Intent(LoginActivity.this, MainActivity.class);
