@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_date">Date</string>
+    <string name="edit_priority">Priority</string>
+    <string name="edit_high">High</string>
+    <string name="edit_medium">Medium</string>
+    <string name="edit_low">Low</string>
+    <string name="edit_save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert_cancel">Do you want to return to main screen?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome to Todo</string>
+    <string name="checkbox">Mark Completed</string>
+    <string name="textviewtitle">Title</string>
+    <string name="textviewdate">Date</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password field is empty</string>
+    <string name="title_error">Title Must be Include</string>
+    <string name="Description_error">Description Must be Include</string>
+    <string name="date_error">Date Must be Include</string>
+    <string name="invalid_name">Enter Title</string>
+    <string name="title_activity_validate">Validate</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="err_email">Please Enter an Valid Email</string>
+    <string name="todoImg">TODO</string>
+    <string name="invalid_password">Please enter a valid password</string>
+    <string name="rembermechk">RemberMe</string>
+    <string name="description_todo">Description</string>
+    <string name="IsCompleted">Comp</string>
+    <string name="checkText">check</string>
+    <string name="task_not_Completed">Incomplete</string>
+    <string name="task_Completed">Completed</string>
+    <string name="chkComp">Completed</string>
+</resources>
